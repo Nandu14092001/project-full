@@ -1,0 +1,5 @@
+Flask
+pillow
+fpdf
+docx2pdf
+gunicorn
